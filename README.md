@@ -36,3 +36,7 @@ The app may take some time to load as it fetches data from external sources.
 Make sure you have a reliable internet connection for the app to work properly.
 
 Feel free to contribute, report issues, or provide feedback!
+<img width="750" alt="image" src="https://github.com/aayushikarcbit/-EDA-SP500-Stock-Price/assets/106508307/17f8f788-ab2a-41bf-b53f-8f8703640912">
+<img width="750" alt="image" src="https://github.com/aayushikarcbit/-EDA-SP500-Stock-Price/assets/106508307/82b584af-79a0-4552-8d7a-a4b7b6ec7dcd">
+
+
